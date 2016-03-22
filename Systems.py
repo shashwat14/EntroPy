@@ -93,7 +93,7 @@ class BinarySystem(object):
             apd = (ad/self.etaSystem)*100
             aapd = np.mean(apd)
             print aapd
-            
+            print "change"
         else:
             print "No data availabele for the system."
             
